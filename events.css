@@ -1,0 +1,20 @@
+.blue {
+	color: blue;
+}
+
+.larger {
+	font-size: 3em;
+}
+
+.border-add {
+	border: 2px solid red;
+}
+
+.border-rounded {
+	border-radius: 15px;
+	border: 2px solid purple;
+}
+
+.bold-section {
+	font-style: bold;
+}
